@@ -1,6 +1,13 @@
 # my_wmts_to_jpg
 將 wmts 第 16 階，指定的四角範圍坐標，轉成一張 jpg 縮圖，方便透過 wmts 製作型錄縮圖。
 
+<h2>Author</h2>
+羽山秋人 (https://3wa.tw)
+
+<h2>License</h2>
+MIT
+<br>
+
 wmts_to_jpg.exe [WMTS URL] [LT_X] [LT_Y] [RB_X] [RB_Y] [OUTPUT.JPG]
 
 <h2>使用方法</h2>
