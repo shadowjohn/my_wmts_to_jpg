@@ -79,20 +79,21 @@ wmts_to_jpg.exe.config
 <h2>縮圖參考：</h2>
   <center>
     <img src="screenshot/01.png">
-    <br>
     使用方法列表    
+    <br>    
     <br>
     <img src="screenshot/02.png">
-    <br>
     Run test
+    <br>    
     <br>
     <img src="screenshot/03.png">
-    <br>
     Osm 範例
+    <br>    
     <br>
     <img src="screenshot/out_osm.jpg">
-    <br>
     osm 輸出圖範例
+    <br>
+    
   </center>
 Todo：
 <ul>
