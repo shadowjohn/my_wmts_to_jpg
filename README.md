@@ -56,7 +56,7 @@ https://c.tile.openstreetmap.org/{TileMatrix}/{TileCol}/{TileRow}.png
     <td>out.jpg 或 C:\temp\out.jpg</td>
 </tr>
 </tbody>
-</html>
+</table>
 
 <h2>Usage:</h2>
 
